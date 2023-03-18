@@ -27,6 +27,7 @@ div#search-box input {
   height: 30px;
   padding: 3px;
   background: white !important;
+  border-radius: 5px;
 }
 
 .autocomplete-suggestions {
